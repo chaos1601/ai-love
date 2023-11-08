@@ -102,7 +102,7 @@ nav ul li + li {
 }
 
 .center {
-  background: #000 url(../img/The_Great_Forest_of_Aharthern.webp) center center / cover no-repeat fixed;
+  background: #000 url(../img/The\ Great\ Forest\ of\ Aharthern.webp) center center / cover no-repeat fixed;
   height: 100%;
   display: grid;
   place-items: center;
