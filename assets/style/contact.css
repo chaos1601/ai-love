@@ -99,9 +99,13 @@ h2 {
 }
 
 form {
-    width: 50%;
     height: 20px;
     margin: 30px 20px;
+    text-align: center;
+}
+
+.contact p {
+  text-align: center;
 }
 
 p + p {
@@ -114,8 +118,7 @@ section {
 }
 
 .location {
-    margin: 200px 10px;
-    width: 50%;
+  margin: 200px 10px;
 }
 
 .image-1 {
